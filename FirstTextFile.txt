@@ -1,2 +1,5 @@
 This is my first file to push on Git.
 I am learning Git and Git Bash.
+-----------------------------------------
+This is going to be my second push.
+---------------------------------------
